@@ -1,0 +1,9 @@
+1. Extranct project fiels and examine them
+2. Setup NPM project and install dependancies
+3. Examine HTML files and determine broad template structure
+4. Create application entry point and route placeholder
+5. Write remote request function
+6. Implement views
+6.1 Cretate static page template
+6.2 Implements data request logic
+6.3 Add event listeners
